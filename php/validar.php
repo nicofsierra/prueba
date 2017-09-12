@@ -15,6 +15,7 @@
 			  else
 				  header('Location:../index.html');
 		?>
+		<p> agrego algo para que sea distinto al repositorio remoto</p>
 	</body>
 	
 </html>
